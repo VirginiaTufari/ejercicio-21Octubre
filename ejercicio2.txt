@@ -1,0 +1,19 @@
+Que es un objeto?  
+Es una forma de agrupar un conjunto de datos (estado) y de funcionalidad (comportamiento) en un mismo bloque de código que luego puede ser referenciado desde otras partes de un programa
+ Que es una clase?
+ Una clase define un grupo o conjunto de datos, en objetos se llaman atributos, que definen los objetos, así como un conjunto de comportamientos, las funciones o métodos del objeto, que lo manipulan y relacionan los objetos unos de otros.
+
+A que se llama método constructor? es una una función especial que se encarga de inicializar,construir , crear un objeto.Es el primer método que se ejecuta cuando se crea un objeto de una determinada clase.
+
+¿Qué son los modificadores de acceso? Un modificador de acceso es aquella cláusula de código que nos indica si podemos acceder o no a un bloque de código específico desde otra parte del programa
+Los modificadores de acceso son palabras clave que se usan para especificar la accesibilidad declarada de un miembro o un tipo
+
+Que diferencia hay entre uno privado y uno protegido?
+
+private: solamente el código de la misma class o struct puede acceder al tipo o miembro. protected: solamente el código de la misma class , o bien de una class derivada de esa class , puede acceder al tipo o miembro
+
+Cuando se usa el this?La palabra clave this hace referencia a la instancia actual de la clase y también se usa como modificador del primer parámetro de un método de extensión.
+
+Cuando se usa el super?se usa en el lenguaje Java para invocar al método constructor de una clase superior (clase padre) de la cual queremos utilizar el mismo tipo de parametrización, entonces esta keyword sube de categoría y pasa a ser el método super
+
+A que se llama sub-clase, o clase hija?Cuando una clase hereda de otra, se le llama subclase, clase hija o clase derivada
